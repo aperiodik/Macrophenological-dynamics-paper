@@ -1,5 +1,5 @@
 # maps of isomap components per time step
-# This generates all plots for figures 3, and appendix figures 10-13
+# This generates all plots for figures 3, and appendix figures
 
 # libraries
 library("lattice")
