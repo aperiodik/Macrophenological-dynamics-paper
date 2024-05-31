@@ -1,6 +1,7 @@
 # canonical correlation analysis 
 # between isomap components of consecutive windows CCorA(Y(i),Y(i+1)):
 #   * compute canonical correlations
+#   * plot for figure 6
 
 # colours
 library("yacca")
