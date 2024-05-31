@@ -1,3 +1,4 @@
+# Appendix plots: fig S1
 # visualising observations counts across Germany
 #   and their relationship to each other across the annual cycle
 #   plot for Fig. 9 in the appendix
