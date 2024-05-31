@@ -155,21 +155,21 @@ source("code/Fig_8_CCorA_Iso_Pop.R")
 # figures in appendix:
 # plot: Observation counts across each other 
 # across average annual cycle across Germany
-cat("====== run Fig_9app_scObsVSmedObs.R =======\n")
-source("code/Fig_9app_scObsVSmedObs.R")
+cat("====== run Fig_appS1_scObsVSmedObs.R =======\n")
+source("code/Fig_appS1_scObsVSmedObs.R")
 
 ##-------------
 # figures in appendix:
 # compute canonical correlation analysis of isomap components of consecutive time steps 
 # across average annual cycle  CCorA(Y(t),Y(t+1)) and 
 # plot the maps of canonical variates
-cat("====== run Fig_15app_CCorA_mapsCV.R =======\n")
-source("code/Fig_15app_CCorA_mapsCV.R")
+cat("====== run Fig_appS9_CCorA_mapsCV.R =======\n")
+source("code/Fig_appS9_CCorA_mapsCV.R")
 
 ##-------------
 # figures in appendix:
 # compute canonical correlation analysis of isomap components of consecutive time steps 
 # across average annual cycle  CCorA(Y(t),Y(t+1)) and 
 # plot structural correlations squared
-cat("====== run Fig_16app_CCorA_SCSq.R =======\n")
-source("code/Fig_16app_CCorA_SCSq.R")
+cat("====== run Fig_appS10_CCorA_SCSq.R =======\n")
+source("code/Fig_appS10_CCorA_SCSq.R")
