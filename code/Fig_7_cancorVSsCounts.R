@@ -1,4 +1,4 @@
-# Plots: Figure 7 and Figure 17 in the appendix
+# Plots: Figure 7 and Figure S11 (appendix)
 #   canonical correlation vs. observation counts across Germany 
 #   (total observations, species, locations) per time step
 
