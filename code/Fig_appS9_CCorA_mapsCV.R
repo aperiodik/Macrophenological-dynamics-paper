@@ -1,7 +1,8 @@
+# Appendix plots: fig S9
 # canonical correlation analysis 
 # between isomap components Y of consecutive windows CCorA(Y(i),Y(i+1)):
 #   * compute canonical variates
-#   * plot canonical variates: fig 15 in appendix
+#   * plot canonical variates: 
 
 # libraries
 library("lattice")
