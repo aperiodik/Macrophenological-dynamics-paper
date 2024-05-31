@@ -1,3 +1,4 @@
+# Appendix plots: fig S10
 # canonical correlation analysis 
 # between isomap components Y of consecutive windows CCorA(Y(i),Y(i+1)):
 #   * compute structural correlations squared (SCSq)
