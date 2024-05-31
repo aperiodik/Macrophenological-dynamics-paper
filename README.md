@@ -8,7 +8,7 @@ The folder contains the data and R code to reproduce the analysis and plots pres
 
 
 #### To run the code:
-Data: Before you run the code, only the data file (mydata.zip) has to be unzipped. Note, that the data has been split zipped into two files (mydata.zip and mydata.z01).
+Data: Before you run the code, the data file (mydata.zip) has to be unzipped. Note, that the data has been split zipped into two files (mydata.zip and mydata.z01 have to be in the same folder).
 
 
 #### Aside
